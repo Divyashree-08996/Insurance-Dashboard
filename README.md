@@ -4,7 +4,7 @@
 This repository contains a comprehensive Power BI dashboard developed to analyze insurance policy distribution, claim behaviors, and segment profitability for **EIC** over a 5-year period (2014–2018). The core objective is to minimize financial risk and highlight the most lucrative policy categories.
 
 ## 📷 Dashboard Preview
-![EIC Dashboard Screenshots](Insurance Report.png)
+![EIC Dashboard Screenshots](https://github.com/Divyashree-08996/Insurance-Dashboard/blob/main/Insurance%20Report.png)
 
 ## ⚡ Core KPIs Tracked
 * **Policies Opened:** 66K
@@ -24,3 +24,7 @@ This repository contains a comprehensive Power BI dashboard developed to analyze
 * **Power BI Desktop:** Dashboard design, data mashup, and visual configurations.
 * **Power Query:** Data cleaning, type transformations, and schema optimization.
 * **DAX (Data Analysis Expressions):** Formulated custom calculated measures for ratios, running totals, and averages.
+
+-----
+✨ If you're a recruiter or data enthusiast, I’d love to hear your feedback!  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyashree-l)  
